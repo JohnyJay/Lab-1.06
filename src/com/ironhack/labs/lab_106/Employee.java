@@ -4,7 +4,7 @@ public class Employee {
     private String name;
     private String email;
     private int age;
-    private double salary;
+    protected double salary;
 
     public Employee(String name, String email, int age, double salary) {
         this.name = name;
