@@ -36,5 +36,15 @@ public class Main {
         // PRACTICE WITH STATIC FUNCTIONS
         Employee.printEmpleadosToFile(empleados);
 
+
+//        // PLAYING AROUND
+//        EmployeeBoss boss1 = new EmployeeBoss("Mark","mark@example.com",32,60_000);
+//        System.out.println(Employee.getEmployeeData(boss1));
+//        System.out.println("Is this employee a boss? "+ boss1.IS_BOSS);
+//
+//        InternWithBoss intern1 = new InternWithBoss("Charles","charles@example.com",23,60_000,boss1);
+//        System.out.println(Employee.getEmployeeData(intern1));
+//        System.out.println(intern1.getName() +" reports to " + intern1.getBoss().getName());
+
     }
 }

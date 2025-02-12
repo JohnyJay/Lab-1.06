@@ -60,7 +60,7 @@ public class Employee {
         writer.close();
     }
 
-    private static String getEmployeeData(Employee empleado) {
+    public static String getEmployeeData(Employee empleado) {
         String result = "Name: " + empleado.getName()+ ", email: "+empleado.getEmail()+", age: "+empleado.getAge()+", salary: "+empleado.getSalary()+"\n";
         return result;
     }
