@@ -1,0 +1,10 @@
+Name: Juan, email: juan@example.com, age: 31, salary: 28000.0
+Name: Mario, email: mario@example.com, age: 33, salary: 32000.0
+Name: Óscar, email: oscar@example.com, age: 28, salary: 35000.0
+Name: Julia, email: julia@example.com, age: 22, salary: 28000.0
+Name: Maria, email: maria@example.com, age: 22, salary: 30000.0
+Name: Lucía, email: lucia@example.com, age: 45, salary: 50000.0
+Name: Pablo, email: pablo@example.com, age: 36, salary: 22000.0
+Name: Lucas, email: lucas@example.com, age: 27, salary: 21000.0
+Name: Victoria, email: victoria@example.com, age: 31, salary: 29000.0
+Name: Isabel, email: isabel@example.com, age: 26, salary: 30000.0
